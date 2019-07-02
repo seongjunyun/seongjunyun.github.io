@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seongjun's Machine Learning"
+title                    : "Seongjun's Homepage"
 title_separator          : "-"
 name                     : "Seongjun Yun"
 description              : "Machine Learning"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Seongjun Yun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am AI researcher."
+  bio              : "AI researcher."
   location         : "Somewhere"
   email            :
   links:
